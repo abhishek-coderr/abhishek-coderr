@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **abhishek1029sain@gmail.com**
 
-- 📄 Know about my experiences [cdv](cdv)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
