@@ -10,7 +10,6 @@ I enjoy working across the stack — from creating responsive user interfaces to
 * 💻 Practicing **Java & Data Structures and Algorithms**
 * 🚀 Building and experimenting with real-world applications
 * 🌱 Continuously learning and improving my software engineering skills
-* 👨‍💻 **Portfolio:** [abhishek-coderr.github.io/My_personal_portfolio](https://abhishek-coderr.github.io/My_personal_portfolio/)
 * 🧩 **LeetCode:** [leetcode.com/abhishek1029sain/](https://leetcode.com/u/abhishek1029sain/)
 * 📫 **Email:** [abhishek1029sain@gmail.com](mailto:abhishek1029sain@gmail.com)
 
@@ -59,9 +58,6 @@ I regularly practice **Data Structures & Algorithms** and focus primarily on sol
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://abhishek-coderr.github.io/My_personal_portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
   <a href="https://leetcode.com/u/abhishek1029sain/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
